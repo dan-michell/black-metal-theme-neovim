@@ -2,14 +2,14 @@
 --- colors taken from Hammerheart, 1990
 local M = {
 	alt = "#5f8787",
-	alt_bg = "#3E2018",
-	bg = "#000000",
+	alt_bg = "#1a1a1a",
+	bg = "#1a1a1a",
 	comment = "#505050",
 	constant = "#aaaaaa",
 	fg = "#c1c1c1",
 	func = "#888888",
 	keyword = "#999999",
-	line = "#000000",
+	line = "#1a1a1a",
 	number = "#aaaaaa",
 	operator = "#9b99a3",
 	property = "#c1c1c1",
